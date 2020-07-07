@@ -8,7 +8,8 @@ Introdução ao a linguagem javascript
 ---------------------------------------------------------------------------------------------------
 
 ### Assistir video aulas
-[![Primeiros passos no JavaScript](<iframe width="560" height="315" src="https://www.youtube.com/embed/i6Oi-YtXnAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://youtu.be/i6Oi-YtXnAU "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos")
+[![Primeiros passos no JavaScript](http://img.youtube.com/vi/i6Oi-YtXnAU/0.jpg)](http://www.youtube.com/watch?v=i6Oi-YtXnAU "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos")
+
 ### Matricule-se grátis
 [aulaead](https://youtu.be/i6Oi-YtXnAU)
 
