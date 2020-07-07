@@ -4,13 +4,13 @@
 Introdução ao a linguagem javascript
 ---------------------------------------------------------------------------------------------------
 
-![JAVASCRIPT](xxxxx)
+![JAVASCRIPT](https://github.com/allanbmartins/Curso-Javascript-Completo-2020-/blob/master/Icone_javascript.gif)
 ---------------------------------------------------------------------------------------------------
 
 ### Assistir video aulas
-[![Primeiros passos no JavaScript](<iframe width="874" height="492" src="https://www.youtube.com/embed/i6Oi-YtXnAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://www.youtube.com/watch?v=i6Oi-YtXnAU "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos")
+[![Primeiros passos no JavaScript](<iframe width="560" height="315" src="https://www.youtube.com/embed/i6Oi-YtXnAU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)](https://youtu.be/i6Oi-YtXnAU "Curso Javascript Completo 2020 [Iniciantes] + 14 Mini-Projetos")
 ### Matricule-se grátis
-[aulaead](https://www.youtube.com/watch?v=i6Oi-YtXnAU)
+[aulaead](https://youtu.be/i6Oi-YtXnAU)
 
 Dev Aprender
 
